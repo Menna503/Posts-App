@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "email": "mennaallah503@gmail.com",
+      "password": "$2a$10$y7JKL095j1pGopPmTPeqee/sic9Tqfl4pLsQpPuXg/zuOAJOZt5ve",
+      "name": "Mennatalla Ahmed",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "tasnemm@gmail.com",
+      "password": "$2a$10$B9cQxyQOHy/CawO1PW/hUe6Rq.Q9od690xGvfCF979ts1HWDsR1uW",
+      "name": "tasneem mohme",
+      "confirmPassword": "123456",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "tasnem",
+      "description": "The quick brown fox jumps over the lazy dog near the riverbank, where silent shadows drift across forgotten dreams. Meanwhile, purple elephants dance gracefully beneath the silver moon, whispering secrets to the wind. Time ticked sideways, and reality folded like paper cranes in a storm of echoes.",
+      "imgUrl": "llllllllllllllllll",
+      "userId": "2",
+      "id": "1mKyaDU"
+    },
+    {
+      "title": "j",
+      "description": "The quick brown fox jumps over the lazy dog near the riverbank, where silent shadows drift across forgotten dreams. Meanwhile, purple elephants dance gracefully beneath the silver moon, whispering secrets to the wind. Time ticked sideways, and reality folded like paper cranes in a storm of echoes.",
+      "imgUrl": "bbbbbbbbbbbb",
+      "userId": "2",
+      "id": "MxkE7kV"
+    },
+    {
+      "title": "k",
+      "description": "The quick brown fox jumps over the lazy dog near the riverbank, where silent shadows drift across forgotten dreams. Meanwhile, purple elephants dance gracefully beneath the silver moon, whispering secrets to the wind. Time ticked sideways, and reality folded like paper cranes in a storm of echoes.",
+      "imgUrl": "llllllllllllllllll",
+      "userId": "2",
+      "id": "De3kxqb"
+    },
+    {
+      "title": "m",
+      "description": "gg",
+      "imgUrl": "llllllllllllllllll",
+      "userId": "1",
+      "id": "AQ9qa-N"
+    },
+    {
+      "title": "mountain",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "imgUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx3gjVACNxfbO8FCbmYR5ZmTBnMRR2JHpbBEmfLk6izChqZQtXFI8uF8fClMvvlGOcK70ErJ1Pcpk-Q-lBuZ78VxOyup5rC6obGW9GqTWEXXePKj-fTTMTadAFrIDPE8nCeC2cSK572kJzA=w675-h390-n-k-no",
+      "userId": "1",
+      "id": "ndg94Oq"
+    }
+  ]
+}
