@@ -84,15 +84,26 @@ export default function RecipeReviewCard({
   };
   return (
     <>
-      <Card sx={{ maxWidth: 345, minWidth: 345 }}>
+      <Card
+        sx={{
+          maxWidth: 450,
+          minWidth: 345,
+          maxHeight: 600,
+          display: "flex",
+          flexDirection: "column",
+        }}
+      >
         <CardHeader title={title} subheader={`by ${authorName}`} />
         <CardMedia
           component="img"
           height="194"
           image={imgUrl || "https://via.placeholder.com/345x194"} // fallback
           alt="Post image"
+          sx={{
+            objectFit: "cover",
+          }}
         />
-        <CardContent>
+        <CardContent sx={{ flexGrow: 1, maxHeight: "100", overflowY: "auto" }}>
           <Typography variant="body2" sx={{ color: "text.secondary" }}>
             {description}
           </Typography>

@@ -42,7 +42,7 @@ if (token) {
       <Navbar   handelLogout={handelLogout} ></Navbar>
       <Box
         display={"flex"}
-        gap={3}
+        gap={4}
         flexWrap={"wrap"}
         justifyContent={"center"}
         mt={3}
